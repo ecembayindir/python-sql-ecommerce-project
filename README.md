@@ -11,6 +11,7 @@ This project provides an in-depth analysis of a dataset containing 99,441 anonym
     <img src="https://i.imgur.com/0ejX40T.jpeg" alt="E-Commerce Data Insights" />
 </div>
 
+
 <h2>📊 <strong>Key Insights</strong></h2>
 <ul>
   <li>Olist experienced steady growth, with a significant increase in sales around Christmas.</li>
@@ -39,7 +40,10 @@ SQL was extensively used for data manipulation, while Python simplified complex 
 A <strong>Power BI</strong> dashboard was created to visualize key metrics and trends, providing an interactive and intuitive way to explore the Olist dataset.
 </p>
 
-<img src="https://i.imgur.com/74PwEMR.png" alt="Olist E-Commerce Data Analysis" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+<img src="https://i.imgur.com/DSz53mh.png" alt="Olist E-Commerce Data Analysis_1" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+<img src="https://i.imgur.com/I5Wecwt.png" alt="Olist E-Commerce Data Analysis_2" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+<img src="https://i.imgur.com/74PwEMR.png" alt="Olist E-Commerce Data Analysis_3" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+<img src="https://i.imgur.com/sBb0qsp.png" alt="Olist E-Commerce Data Analysis_4" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
 
 
 <h2>💻 <strong>How to Run the Project</strong></h2>
