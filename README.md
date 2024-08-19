@@ -83,3 +83,13 @@ This project highlights the powerful combination of SQL and Python for conductin
 <p align="center">
     &copy; 2024 Ecem Bayındır. All rights reserved.
 </p>
+
+<!-- Your existing README content -->
+
+<hr>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=python-sql-ecommerce-project&icon=0&color=0" alt="Visit Count">
+  </a>
+</p>
